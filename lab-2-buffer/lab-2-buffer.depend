@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580807993 source:c:\users\cse\desktop\lab-2-buffer\sth_buffer.cpp
+	<windows.h>
+	<GL/glut.h>
+
